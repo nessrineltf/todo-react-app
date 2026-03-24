@@ -42,7 +42,7 @@ git clone https://github.com/nessrineltf/todo-react-app.git
 2. Navigate to the project folder:
 
 ```bash
-cd todo-app
+cd todo-react-app
 ```
 
 3. Install dependencies:
