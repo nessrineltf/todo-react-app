@@ -63,17 +63,17 @@ npm run dev
 
 ```
 src/
- ├── components/
+
  ├── TodoItem.tsx/
- ├── App.jsx
- ├── main.jsx
+ ├── App.tsx
+ ├── main.tsx
 ```
 
 ---
 
 ## 🎯 Future Improvements
 
-* ✏️ Edit tasks
+* ✏️ Filter tasks
 * 💾 Save tasks in local storage
 * 🌙 Dark mode
 
