@@ -11,7 +11,7 @@ The app allows users to manage their daily tasks
 
 * ➕ Create new tasks
 * ❌ Delete tasks
-* 🔍 Filter tasks (All / Completed / Active)
+* 🔍 Filter tasks (Urgente / Moyenne / Basse/ Tous)
 * 🎨 Clean and modern UI
 
 ---
@@ -36,7 +36,7 @@ A clean and minimal design using TailwindCSS and DaisyUI components with modern 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/nessrineltf/todo-react-app.git
 ```
 
 2. Navigate to the project folder:
@@ -64,6 +64,7 @@ npm run dev
 ```
 src/
  ├── components/
+ ├── TodoItem.tsx/
  ├── App.jsx
  ├── main.jsx
 ```
